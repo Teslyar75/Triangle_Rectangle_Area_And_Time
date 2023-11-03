@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle_Rectangle_Area_And_Time", "Triangle_Rectangle_Area_And_Time.csproj", "{18285D7E-AD4D-417B-81DF-AF5A5C67993F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18285D7E-AD4D-417B-81DF-AF5A5C67993F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18285D7E-AD4D-417B-81DF-AF5A5C67993F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18285D7E-AD4D-417B-81DF-AF5A5C67993F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18285D7E-AD4D-417B-81DF-AF5A5C67993F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {169CA9CF-4F7D-42CD-9C7B-64A2C810EE48}
+	EndGlobalSection
+EndGlobal
